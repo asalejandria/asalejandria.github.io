@@ -1,0 +1,48 @@
+
+.ball {
+  width: 100px;
+  height: 100px;
+  border-radius: 61px;
+}
+
+.ball:hover {
+	outline-color: black;
+	outline-width: 5px;
+	outline-style: solid;
+	cursor: pointer;
+}
+
+#red {
+  background-color: red;
+}
+
+#green {
+  background-color: green;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#tab-widget {
+	margin: 50px;
+	margin-top: 30px;
+	background-color: grey;
+}
+
+.content {
+	height: 100px;
+}
+
+#newsfeed {
+	background-color: red;
+}
+
+#photos {
+	background-color: blue;
+}
+
+#pages {
+	background-color: green;
+}
+
